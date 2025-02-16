@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vitaliy Khatuntsev</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Vitaliy Khatuntsev</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Vitaliy Khatuntsev</copyright>
+    <lastBuildDate>Sun, 16 Feb 2025 19:16:42 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test2</title>
+      <link>http://localhost:1313/posts/test2/</link>
+      <pubDate>Sun, 16 Feb 2025 19:16:42 +0300</pubDate>
+      <guid>http://localhost:1313/posts/test2/</guid>
+      <description>&lt;p&gt;Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,&#xA;AngularJS-powered HTML5 Markdown editor.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Type some Markdown on the left&lt;/li&gt;&#xA;&lt;li&gt;See HTML in the right&lt;/li&gt;&#xA;&lt;li&gt;✨Magic ✨&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Import a HTML file and watch it magically convert to Markdown&lt;/li&gt;&#xA;&lt;li&gt;Drag and drop images (requires your Dropbox account be linked)&lt;/li&gt;&#xA;&lt;li&gt;Import and save files from GitHub, Dropbox, Google Drive and One Drive&lt;/li&gt;&#xA;&lt;li&gt;Drag and drop markdown and HTML files into Dillinger&lt;/li&gt;&#xA;&lt;li&gt;Export documents as Markdown, HTML and PDF&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Sun, 16 Feb 2025 18:21:44 +0300</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;h1 id=&#34;dillinger&#34;&gt;Dillinger&lt;/h1&gt;&#xA;&lt;h2 id=&#34;_the-last-markdown-editor-ever_&#34;&gt;&lt;em&gt;The Last Markdown Editor, Ever&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,&#xA;AngularJS-powered HTML5 Markdown editor.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Type some Markdown on the left&lt;/li&gt;&#xA;&lt;li&gt;See HTML in the right&lt;/li&gt;&#xA;&lt;li&gt;✨Magic ✨&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Import a HTML file and watch it magically convert to Markdown&lt;/li&gt;&#xA;&lt;li&gt;Drag and drop images (requires your Dropbox account be linked)&lt;/li&gt;&#xA;&lt;li&gt;Import and save files from GitHub, Dropbox, Google Drive and One Drive&lt;/li&gt;&#xA;&lt;li&gt;Drag and drop markdown and HTML files into Dillinger&lt;/li&gt;&#xA;&lt;li&gt;Export documents as Markdown, HTML and PDF&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Markdown is a lightweight markup language based on the formatting conventions&#xA;that people naturally use in email.&#xA;As [John Gruber] writes on the [Markdown site][df1]&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
