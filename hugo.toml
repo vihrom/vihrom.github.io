@@ -8,6 +8,7 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+disqusShortname = "vihrom"
 
 pagerSize=3 # articles per page
 
